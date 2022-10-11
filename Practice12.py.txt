@@ -1,0 +1,12 @@
+Age = 22
+txt = "My name is Chandini, and I am  {}"
+print(txt.format(Age))
+Rank = 3
+txt = "And, my Rank is {}"
+print(txt.format(Rank))
+Qualifications = 'Bsc Graduate'
+txt = "I am a {}"
+print(txt.format(Qualifications))
+Hobbies = 'Listening to Music Reading stories in Magazines'
+txt = " I am interested in {}"
+print(txt.format(Hobbies))

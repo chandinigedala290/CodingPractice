@@ -1,0 +1,6 @@
+dinningtables = 500
+quantityofchairs = 600
+otheritems = 1000
+price = 5000
+myorder = "In a furniture shop dinningtables are {0}  and quantity of chairs are {1}  other items  are {2} the each item price is rupees {3}."
+print(myorder.format(dinningtables,quantityofchairs,otheritems, price))
